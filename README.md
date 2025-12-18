@@ -1,6 +1,6 @@
 # Sign Language Translator
 
-A Python-based application that translates **sign language gestures** into **text** or **speech**, enabling better communication for people with hearing impairments.
+A Python-based application that translates **sign language gestures** into **text** , enabling better communication for people with hearing impairments.
 
 ## Features
 - Real-time recognition of hand gestures using a webcam.
@@ -19,3 +19,5 @@ A Python-based application that translates **sign language gestures** into **tex
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Manisha-jha23/sign-language-translator.git
+
+
